@@ -1,0 +1,138 @@
+
+
+.menu {
+    position:fixed;
+    background-color: rgb(235, 207, 52);
+    color:white;
+    height: 18vh;
+    width: 100%;
+    z-index: 2;
+    right: 0vw;
+    top: 0vh;
+}
+
+
+.logo {
+    
+    float: left;
+    height: 20vh;
+    width: 30vh;
+
+}
+
+
+ .nav-link { 
+   
+    margin-left: 0vh;
+}
+
+
+ .nav {
+    
+    text-align: center;
+    font-size: 1.6vh;
+    margin-top: 7vh; 
+ } 
+ 
+ 
+ 
+ .content {
+
+   margin-top: 8.3vw;
+   width: 100%;
+ }
+ 
+ 
+ .row {
+
+ height: max-content;
+ 
+ }
+ 
+ 
+ .col-sm-8 { 
+    
+    text-align: center;
+    background-color: white;
+ }
+ 
+
+
+.container {
+
+    margin-top: 8vh;
+    
+}
+
+
+/*Estilização das imagens, partindo do padrão de tamanho 
+width: 25vh; height: 40vh; */
+ 
+
+.col-md-3 {
+
+font-size: 1.45vh;
+font-weight: bold;
+
+
+}
+
+
+
+
+.c1, .c4 {
+
+margin-top: 2vh;
+width: 28vh;
+height: 40vh;
+margin-bottom: 1.5vh;
+
+}
+
+.c2, .c3 {
+
+margin-top: 2vh;
+width: 25vh;
+height: 40vh;
+margin-bottom: 1.5vh;
+}
+
+
+b {
+
+color: green;
+font-size: 3vh;
+
+}
+
+.bd1, .bd2, .bd3, .bd4 {
+
+    width: 30vh;
+    height: 50vh;
+    margin-bottom: 20vh;
+    background-color: white;
+    border-radius: 2rem;
+    box-shadow:  3px 3px 0px lightgray;
+    
+
+}
+
+.bd1:hover, .bd2:hover, .bd3:hover, .bd4:hover {
+
+opacity: 55%;
+border: solid 1.5px lightslategray;
+box-shadow:  3px 3px 0px lightslategray;
+
+}
+
+
+
+footer {
+
+margin-top: 15vh;    
+background-color: black;
+width: 100%;
+height: 17.5vh;
+
+
+}
